@@ -1,0 +1,51 @@
+body{
+    background-color:#FFF;
+    font-family: sans-serif;
+    
+
+}
+
+header{
+    color: #FFF;
+    font-size: 25PX;
+    text-align: center;
+    padding: 20PX;
+    background-color: olivedrab;
+}
+#nav{
+    text-align: center;
+    font-weight:bolder;
+    margin-top: 10PX;
+}
+
+#nav ul{
+    
+    display: inline-block;
+    text-decoration:none;
+}
+
+a {
+    text-align: center;
+}
+
+ul li{
+    font-size: 14px; 
+    border: 10px;
+    margin: 2px;
+    list-style:none;
+    float:left;
+    padding:50px;
+    background-color:#CCC;
+    width:100px;
+    height: 10px;
+    text-align:center;
+
+}
+li:hover{
+    background-color:olivedrab;
+    color: mintcream;
+}
+li a {
+    text-decoration:none;
+}
+
